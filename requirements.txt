@@ -1,0 +1,2 @@
+# Requires: unlikely-loop
+# (Not available on PyPI)
